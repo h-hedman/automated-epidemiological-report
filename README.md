@@ -3,7 +3,7 @@
 * **Purpose** 
   - An automated epidemiological reporting script with PDF output for settings with limited or no internet access
  
- * **Overview** 
+* **Overview** 
   - Processes descriptive statistics and epidemiological trends with figure and table output
   - This script is most useful for broad overview of epidemiological trends and functions as an excellent resource in settings without internet 
 
