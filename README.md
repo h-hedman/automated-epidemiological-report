@@ -1,7 +1,7 @@
-# automated-epidemiological-report-README: An Automated Report for Epidemiological Surveillance
+# Automated Epidemiological Report: An Automated Tool for Epidemiological Surveillance
 
-* **automated-epidemiological-report** 
-  - An automated epidemiological reporting script with PDF output for settings with limited or no internet access. 
+* **Purpose** 
+  - An automated epidemiological reporting script with PDF output for settings with limited or no internet access
  
  * **Overview**
   - Processes descriptive statistics and epidemiological trends with figure and table output
