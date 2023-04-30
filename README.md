@@ -1,4 +1,4 @@
-# Automated Epidemiological Report: An Automated Tool for Epidemiological Surveillance
+# Automated Epidemiological Report: Tool for Epidemiological Surveillance
 
 * **Purpose** 
   - An automated epidemiological reporting script with PDF output for settings with limited or no internet access
